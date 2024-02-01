@@ -23,5 +23,5 @@ To start using Umathelp, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/umathelp.git
+   git clone https://github.com/fredabila/umathelp.git
    cd umathelp
