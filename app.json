@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "umathelp",
+    "name": "UMATHELP",
     "slug": "umathelp",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.fredab.umathelp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2791d696-b65e-4c8e-8688-bf114a61f3e4"
+      }
     }
   }
 }

@@ -12,7 +12,20 @@
     "expo": "~49.0.15",
     "expo-status-bar": "~1.6.0",
     "react": "18.2.0",
-    "react-native": "0.72.6"
+    "react-native": "0.72.6",
+    "@react-native-firebase/analytics": "^18.7.3",
+    "@react-native-firebase/app": "^18.7.3",
+    "@react-native-firebase/auth": "^18.7.3",
+    "@react-native-firebase/database": "^18.7.3",
+    "@react-native-firebase/firestore": "^18.7.3",
+    "@react-native-firebase/in-app-messaging": "^18.7.3",
+    "@react-native-firebase/messaging": "^18.7.3",
+    "@react-native-firebase/perf": "^18.7.3",
+    "@react-native-firebase/remote-config": "^18.7.3",
+    "@react-native-firebase/storage": "^18.7.3",
+    "react-native-gifted-chat": "^2.4.0",
+    "react-native-screens": "~3.22.0",
+    "react-navigation": "^4.4.4"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
