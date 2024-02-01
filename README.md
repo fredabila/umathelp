@@ -4,7 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/your-username/umathelp)](https://github.com/fredabila/umathelp/issues)
 [![GitHub stars](https://img.shields.io/github/stars/your-username/umathelp)](https://github.com/fredabila/umathelp/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/your-username/umathelp)](https://github.com/fredabila/umathelp/network)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/your-username/umathelp.svg?style=social)](https://twitter.com/intent/tweet?url=https://github.com/your-username/umathelp&text=Check%20out%20Umathelp%20-%20School%20Information%20AI&hashtags=umathelp,artificialintelligence,school)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/your-username/umathelp.svg?style=social)](https://twitter.com/intent/tweet?url=https://github.com/fredabila/umathelp&text=Check%20out%20Umathelp%20-%20School%20Information%20AI&hashtags=umathelp,artificialintelligence,school)
 
 ## Overview
 
